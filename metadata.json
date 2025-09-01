@@ -1,0 +1,7 @@
+{
+  "name": "Style Match AI",
+  "description": "An AI-powered fashion assistant that analyzes your clothing pairs from a photo and provides expert feedback on whether it's a good match for you.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
